@@ -1,0 +1,15 @@
+{
+  "name": "modeltest",
+  "version": "1.0.0",
+  "description": "Cool model test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.11.6",
+    "@tensorflow/tfjs-node": "^0.1.7"
+  }
+}
